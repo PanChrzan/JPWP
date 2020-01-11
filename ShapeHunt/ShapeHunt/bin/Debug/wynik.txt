@@ -1,0 +1,14 @@
+﻿Czas      |Trafienia|Pudła|Poziom
+
+00:07:04 | -  10  - | - 0 - |Poziom: łatwy
+00:15:00 | -  30  - | - 9 - |Poziom: trudny
+00:15:03 | -  30  - | - 11 - |Poziom: trudny
+00:21:08 | -  30  - | - 26 - |Poziom: trudny
+00:13:04 | -  10  - | - 0 - |Poziom: łatwy
+00:10:01 | -  10  - | - 1 - |Poziom: łatwy
+00:12:00 | -  10  - | - 0 - |Poziom: łatwy
+00:12:07 | -  10  - | - 1 - |Poziom: łatwy
+00:13:06 | -  30  - | - 6 - |Poziom: trudny
+00:14:07 | -  30  - | - 6 - |Poziom: trudny
+00:08:06 | -  10  - | - 1 - |Poziom: łatwy
+00:10:01 | -  10  - | - 1 - |Poziom: łatwy
